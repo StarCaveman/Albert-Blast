@@ -10,6 +10,6 @@ Platform: Windows/macOS
 
 🎮 **Gameplay:**
 - Navigate Albert through exciting levels
-- Download and play on itch.io: [Albert Blast on itch.io](albert-the-curious-cat.itch.io)
+- Download and play on itch.io: [Albert Blast on itch.io](albert-the-curious-cat.itch.io/albert-blast)
 
 🖼️ **Screenshots / Preview:**
