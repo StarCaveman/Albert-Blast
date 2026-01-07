@@ -13,3 +13,6 @@ Platform: Windows/macOS
 - Download and play on itch.io: [Albert Blast on itch.io](albert-the-curious-cat.itch.io/albert-blast)
 
 🖼️ **Screenshots / Preview:**
+![Screenshot 1](01.png)
+![Screenshot 2](02.png)
+![Screenshot 3](03.png)
