@@ -6,7 +6,7 @@ Genre: Retro-style Arcade Shooter
 
 Engine: Python + Pygame
 
-Platform: Windows/macOS
+Platform: Windows / macOS
 
 🎮 **Gameplay:**
 - Navigate Albert through exciting levels
